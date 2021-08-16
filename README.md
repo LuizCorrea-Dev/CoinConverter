@@ -30,7 +30,7 @@
 
 <p align="justify">
  O objetivo deste projeto é criar um App de conversão de moedas/câmbio, passando por todo o processo de desenvolvimento usando o Kotlin. 
-  Tecnicamente, foi desenvolvido um App Android nativo para converção de moedas usando Retrofit para fazer as chamadas pada a API (https://docs.awesomeapi.com.br/api-de-moedas), foi usado o Koin como injeção de dependências, Corroutines para códigos assincronos, lifecycle, Room para salvar as pesquisas localmente.
+  Tecnicamente, foi desenvolvido um App Android nativo para converção de moedas usando Retrofit para fazer as chamadas pada a API (https://docs.awesomeapi.com.br/api-de-moedas), foi usado o Koin como injeção de dependências, Coroutines para códigos assincronos, lifecycle, Room para salvar as pesquisas localmente.
   
   Foi usado a arquitetura MVVM
 </p>
