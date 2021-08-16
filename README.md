@@ -8,7 +8,7 @@
 </p>
 
 
-> Status do Projeto: :heavy_check_mark: concluído a proposta de criação um app conversor de moedas/cambio com Kotlins, no Bootcamp Carrefour Android Developer na plataforma da Digital Innovation One
+> Status do Projeto: :heavy_check_mark: concluído a proposta de criação um app conversor de moedas/cambio com Kotlin, no Bootcamp Carrefour Android Developer na plataforma da Digital Innovation One
 
 ### Tópicos 
 
