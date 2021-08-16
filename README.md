@@ -8,15 +8,15 @@
 </p>
 
 
-> Status do Projeto: :heavy_check_mark: concluído a proposta de app de exibição de repositórios no github do Inter Android Developer na plataforma da Digital Innovation One
+> Status do Projeto: :heavy_check_mark: concluído a proposta de criação um app conversor de moedas/cambio com Kotlins, no Bootcamp Carrefour Android Developer na plataforma da Digital Innovation One
 
 ### Tópicos 
 
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
 
-:small_blue_diamond: [Funcionalidades](#funcionalidades)
+:small_blue_diamond: [Funcionalidades e implementações](#funcionalidades-e-implementações)
 
-:small_blue_diamond: [Layout da Aplicação](#funcionalidades)
+:small_blue_diamond: [Layout da Aplicação](#layout-da-aplicação-dash)
 
 :small_blue_diamond: [Pré-requisitos](#pré-requisitos)
 
