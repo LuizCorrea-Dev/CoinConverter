@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Coin Converter</string>
+    <string name="title_historic">Histórico salvo</string>
+    <string name="input_value">Valor</string>
+    <string name="converter_of">Converter de:</string>
+    <string name="from">Para:</string>
+    <string name="converter_btn">Converter</string>
+    <string name="save_btn">Salvar</string>
+</resources>
